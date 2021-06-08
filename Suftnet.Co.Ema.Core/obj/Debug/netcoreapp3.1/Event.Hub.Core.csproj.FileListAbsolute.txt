@@ -1,0 +1,16 @@
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.AssemblyInfoInputs.cache
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.AssemblyInfo.cs
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Event.Hub.Core.deps.json
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Event.Hub.Core.dll
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Event.Hub.Core.pdb
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.dll
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.pdb
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Event.Hub.Core.deps.json
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Event.Hub.Core.dll
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Event.Hub.Core.pdb
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.csprojAssemblyReference.cache
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.AssemblyInfoInputs.cache
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.AssemblyInfo.cs
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.csproj.CoreCompileInputs.cache
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.dll
+E:\Git\Web\Ema-Practice\Eventhub\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Event.Hub.Core.pdb

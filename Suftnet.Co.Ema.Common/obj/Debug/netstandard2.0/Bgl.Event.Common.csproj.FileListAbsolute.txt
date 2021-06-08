@@ -1,0 +1,8 @@
+C:\Dev\bglevents\Common\bin\Debug\netstandard2.0\Bgl.Event.Common.deps.json
+C:\Dev\bglevents\Common\bin\Debug\netstandard2.0\Bgl.Event.Common.dll
+C:\Dev\bglevents\Common\bin\Debug\netstandard2.0\Bgl.Event.Common.pdb
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Bgl.Event.Common.AssemblyInfoInputs.cache
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Bgl.Event.Common.AssemblyInfo.cs
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Bgl.Event.Common.dll
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Bgl.Event.Common.pdb
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Bgl.Event.Common.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Dev\Rating Engine\RatingEngine\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Dev\Rating Engine\RatingEngine\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Dev\Rating Engine\RatingEngine\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache

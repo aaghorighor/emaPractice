@@ -1,0 +1,44 @@
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Business.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Common.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Model.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.csproj.CoreCompileInputs.cache
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.AssemblyInfoInputs.cache
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.AssemblyInfo.cs
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.deps.json
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.runtimeconfig.json
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.runtimeconfig.dev.json
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.pdb
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Business.pdb
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Common.pdb
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Model.pdb
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.csprojAssemblyReference.cache
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.csproj.CopyComplete
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.pdb
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.deps.json
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.runtimeconfig.json
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.runtimeconfig.dev.json
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.dll
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.pdb
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Business.dll
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Common.dll
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Model.dll
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Business.pdb
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Common.pdb
+C:\Projects\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Bgl.RatingEngine.Model.pdb
+C:\Projects\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.csprojAssemblyReference.cache
+C:\Projects\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.csproj.CoreCompileInputs.cache
+C:\Projects\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.AssemblyInfoInputs.cache
+C:\Projects\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.AssemblyInfo.cs
+C:\Projects\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.csproj.CopyComplete
+C:\Projects\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.dll
+C:\Projects\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\Bgl.RatingEngine.UnitTest.pdb

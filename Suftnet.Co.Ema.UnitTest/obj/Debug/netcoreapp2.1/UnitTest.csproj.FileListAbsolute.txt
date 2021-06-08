@@ -1,0 +1,14 @@
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+C:\Dev\Rating Engine\RatingEngine\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb

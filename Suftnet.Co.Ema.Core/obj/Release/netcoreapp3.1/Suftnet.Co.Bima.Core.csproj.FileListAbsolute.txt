@@ -1,0 +1,9 @@
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\bin\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.deps.json
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\bin\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.dll
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\bin\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.pdb
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\obj\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.AssemblyInfoInputs.cache
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\obj\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.AssemblyInfo.cs
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\obj\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.csproj.CoreCompileInputs.cache
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\obj\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.dll
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\obj\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.pdb
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Core\obj\Release\netcoreapp3.1\Suftnet.Co.Bima.Core.csprojAssemblyReference.cache

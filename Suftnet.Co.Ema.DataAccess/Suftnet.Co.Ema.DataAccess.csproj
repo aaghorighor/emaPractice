@@ -1,0 +1,96 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Actions\**" />
+    <Compile Remove="Actions_\**" />
+    <Compile Remove="Action\**" />
+    <EmbeddedResource Remove="Actions\**" />
+    <EmbeddedResource Remove="Actions_\**" />
+    <EmbeddedResource Remove="Action\**" />
+    <None Remove="Actions\**" />
+    <None Remove="Actions_\**" />
+    <None Remove="Action\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Actions\AccountType.cs" />
+    <Compile Include="Actions\Address.cs" />
+    <Compile Include="Actions\AspNetRole.cs" />
+    <Compile Include="Actions\AspNetUser.cs" />
+    <Compile Include="Actions\AspNetUserClaim.cs" />
+    <Compile Include="Actions\AspNetUserLogin.cs" />
+    <Compile Include="Actions\AspNetUserRole.cs" />
+    <Compile Include="Actions\Brand.cs" />
+    <Compile Include="Actions\Category.cs" />
+    <Compile Include="Actions\Chapter.cs" />
+    <Compile Include="Actions\Common.cs" />
+    <Compile Include="Actions\Customer.cs" />
+    <Compile Include="Actions\CustomerAddress.cs" />
+    <Compile Include="Actions\CustomerDeliveryStatus.cs" />
+    <Compile Include="Actions\CustomerOrder.cs" />
+    <Compile Include="Actions\CustomerOrderDelivery.cs" />
+    <Compile Include="Actions\CustomerOrderNotification.cs" />
+    <Compile Include="Actions\CustomerType.cs" />
+    <Compile Include="Actions\DeliveryOrder.cs" />
+    <Compile Include="Actions\Discount.cs" />
+    <Compile Include="Actions\Editor.cs" />
+    <Compile Include="Actions\DataContext.cs" />
+    <Compile Include="Actions\Faq.cs" />
+    <Compile Include="Actions\Global.cs" />
+    <Compile Include="Actions\Image.cs" />
+    <Compile Include="Actions\Item.cs" />
+    <Compile Include="Actions\Logger.cs" />
+    <Compile Include="Actions\MobileLogger.cs" />
+    <Compile Include="Actions\MobilePermission.cs" />
+    <Compile Include="Actions\Notification.cs" />
+    <Compile Include="Actions\OfflineCustomer.cs" />
+    <Compile Include="Actions\OfflineCustomerOrder.cs" />
+    <Compile Include="Actions\Order.cs" />
+    <Compile Include="Actions\OrderDetail.cs" />
+    <Compile Include="Actions\OrderPayment.cs" />
+    <Compile Include="Actions\OrderStatus.cs" />
+    <Compile Include="Actions\OrderType.cs" />
+    <Compile Include="Actions\Payment.cs" />
+    <Compile Include="Actions\PaymentMethod.cs" />
+    <Compile Include="Actions\PaymentStatus.cs" />
+    <Compile Include="Actions\Permission.cs" />
+    <Compile Include="Actions\Plan.cs" />
+    <Compile Include="Actions\PlanFeature.cs" />
+    <Compile Include="Actions\Purchase.cs" />
+    <Compile Include="Actions\PurchaseDetail.cs" />
+    <Compile Include="Actions\PurchasePayment.cs" />
+    <Compile Include="Actions\Setting.cs" />
+    <Compile Include="Actions\Slider.cs" />
+    <Compile Include="Actions\SubTopic.cs" />
+    <Compile Include="Actions\Supplier.cs" />
+    <Compile Include="Actions\Table.cs" />
+    <Compile Include="Actions\Tax.cs" />
+    <Compile Include="Actions\Tenant.cs" />
+    <Compile Include="Actions\TenantAddress.cs" />
+    <Compile Include="Actions\TenantState.cs" />
+    <Compile Include="Actions\Topic.cs" />
+    <Compile Include="Actions\Tour.cs" />
+    <Compile Include="Actions\Unit.cs" />
+    <Compile Include="Actions\UserAccount.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.2">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="StructureMap.AspNetCore" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>

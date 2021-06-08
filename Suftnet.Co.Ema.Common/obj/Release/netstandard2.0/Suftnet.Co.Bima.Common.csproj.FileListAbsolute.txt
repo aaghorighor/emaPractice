@@ -1,0 +1,9 @@
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\bin\Release\netstandard2.0\Suftnet.Co.Bima.Common.deps.json
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\bin\Release\netstandard2.0\Suftnet.Co.Bima.Common.dll
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\bin\Release\netstandard2.0\Suftnet.Co.Bima.Common.pdb
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\obj\Release\netstandard2.0\Suftnet.Co.Bima.Common.AssemblyInfoInputs.cache
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\obj\Release\netstandard2.0\Suftnet.Co.Bima.Common.AssemblyInfo.cs
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\obj\Release\netstandard2.0\Suftnet.Co.Bima.Common.csproj.CoreCompileInputs.cache
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\obj\Release\netstandard2.0\Suftnet.Co.Bima.Common.dll
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\obj\Release\netstandard2.0\Suftnet.Co.Bima.Common.pdb
+E:\Git\Web\Bima\Bima\Bima\Suftnet.Co.Bima.Common\obj\Release\netstandard2.0\Suftnet.Co.Bima.Common.csprojAssemblyReference.cache

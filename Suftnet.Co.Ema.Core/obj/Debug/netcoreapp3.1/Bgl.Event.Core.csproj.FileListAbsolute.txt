@@ -1,0 +1,8 @@
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Bgl.Event.Core.deps.json
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Bgl.Event.Core.dll
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp3.1\Bgl.Event.Core.pdb
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Bgl.Event.Core.AssemblyInfoInputs.cache
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Bgl.Event.Core.AssemblyInfo.cs
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Bgl.Event.Core.dll
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Bgl.Event.Core.pdb
+C:\Dev\bglevents\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp3.1\Bgl.Event.Core.csprojAssemblyReference.cache

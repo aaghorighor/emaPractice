@@ -1,0 +1,16 @@
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Event.Hub.Common.AssemblyInfoInputs.cache
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Event.Hub.Common.AssemblyInfo.cs
+C:\Dev\bglevents\Common\bin\Debug\netstandard2.0\Event.Hub.Common.deps.json
+C:\Dev\bglevents\Common\bin\Debug\netstandard2.0\Event.Hub.Common.dll
+C:\Dev\bglevents\Common\bin\Debug\netstandard2.0\Event.Hub.Common.pdb
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Event.Hub.Common.dll
+C:\Dev\bglevents\Common\obj\Debug\netstandard2.0\Event.Hub.Common.pdb
+E:\Git\Web\Ema-Practice\Eventhub\Common\bin\Debug\netstandard2.0\Event.Hub.Common.deps.json
+E:\Git\Web\Ema-Practice\Eventhub\Common\bin\Debug\netstandard2.0\Event.Hub.Common.dll
+E:\Git\Web\Ema-Practice\Eventhub\Common\bin\Debug\netstandard2.0\Event.Hub.Common.pdb
+E:\Git\Web\Ema-Practice\Eventhub\Common\obj\Debug\netstandard2.0\Event.Hub.Common.csprojAssemblyReference.cache
+E:\Git\Web\Ema-Practice\Eventhub\Common\obj\Debug\netstandard2.0\Event.Hub.Common.AssemblyInfoInputs.cache
+E:\Git\Web\Ema-Practice\Eventhub\Common\obj\Debug\netstandard2.0\Event.Hub.Common.AssemblyInfo.cs
+E:\Git\Web\Ema-Practice\Eventhub\Common\obj\Debug\netstandard2.0\Event.Hub.Common.csproj.CoreCompileInputs.cache
+E:\Git\Web\Ema-Practice\Eventhub\Common\obj\Debug\netstandard2.0\Event.Hub.Common.dll
+E:\Git\Web\Ema-Practice\Eventhub\Common\obj\Debug\netstandard2.0\Event.Hub.Common.pdb

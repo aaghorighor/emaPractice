@@ -1,0 +1,18 @@
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.deps.json
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.dll
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.csproj.CoreCompileInputs.cache
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.AssemblyInfoInputs.cache
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.AssemblyInfo.cs
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.pdb
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.csprojAssemblyReference.cache
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.dll
+C:\Dev\Rating Engine\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.pdb
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.deps.json
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.dll
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\bin\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.pdb
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.csproj.CoreCompileInputs.cache
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.AssemblyInfoInputs.cache
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.AssemblyInfo.cs
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.dll
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.pdb
+C:\Projects\RatingEngine\Bgl.Rating.Engine.Core\obj\Debug\netcoreapp2.1\Bgl.Rating.Engine.Core.csprojAssemblyReference.cache

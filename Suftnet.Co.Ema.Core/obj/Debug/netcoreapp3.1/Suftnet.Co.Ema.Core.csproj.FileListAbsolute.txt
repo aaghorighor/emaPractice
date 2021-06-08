@@ -1,0 +1,9 @@
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\bin\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.deps.json
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\bin\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.dll
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\bin\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.pdb
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.csprojAssemblyReference.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.AssemblyInfoInputs.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.AssemblyInfo.cs
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.csproj.CoreCompileInputs.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.dll
+E:\Git\Web\emaPractice\Suftnet.Co.Bima.Core\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.Core.pdb

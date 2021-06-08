@@ -1,0 +1,18 @@
+C:\Dev\Rating Engine\RatingEngine\Common\bin\Debug\netstandard2.0\Bgl.RatingEngine.Common.deps.json
+C:\Dev\Rating Engine\RatingEngine\Common\bin\Debug\netstandard2.0\Bgl.RatingEngine.Common.dll
+C:\Dev\Rating Engine\RatingEngine\Common\bin\Debug\netstandard2.0\Bgl.RatingEngine.Common.pdb
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.csprojAssemblyReference.cache
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.csproj.CoreCompileInputs.cache
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.AssemblyInfoInputs.cache
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.AssemblyInfo.cs
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.dll
+C:\Dev\Rating Engine\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.pdb
+C:\Projects\RatingEngine\Common\bin\Debug\netstandard2.0\Bgl.RatingEngine.Common.deps.json
+C:\Projects\RatingEngine\Common\bin\Debug\netstandard2.0\Bgl.RatingEngine.Common.dll
+C:\Projects\RatingEngine\Common\bin\Debug\netstandard2.0\Bgl.RatingEngine.Common.pdb
+C:\Projects\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.csproj.CoreCompileInputs.cache
+C:\Projects\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.AssemblyInfoInputs.cache
+C:\Projects\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.AssemblyInfo.cs
+C:\Projects\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.dll
+C:\Projects\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.pdb
+C:\Projects\RatingEngine\Common\obj\Debug\netstandard2.0\Bgl.RatingEngine.Common.csprojAssemblyReference.cache
