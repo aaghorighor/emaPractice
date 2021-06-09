@@ -1,4 +1,4 @@
-﻿namespace Suftnet.Co.Bima.Core
+﻿namespace Suftnet.Co.Ema.Core
 {
     using Microsoft.AspNetCore.Http;
     using Microsoft.Extensions.DependencyInjection;

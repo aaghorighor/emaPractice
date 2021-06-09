@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\v12</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Models/BuyerDto.cs">
+      <publishTime>01/13/2021 18:33:44</publishTime>
+    </File>
+    <File Include="Models/CompanyDto.cs">
+      <publishTime>01/13/2021 18:40:02</publishTime>
+    </File>
+    <File Include="Models/Config.cs">
+      <publishTime>01/13/2021 10:43:18</publishTime>
+    </File>
+    <File Include="Models/DriverDto.cs">
+      <publishTime>01/13/2021 18:33:50</publishTime>
+    </File>
+    <File Include="Models/LoginDto.cs">
+      <publishTime>01/13/2021 11:57:04</publishTime>
+    </File>
+    <File Include="Models/ProduceDto.cs">
+      <publishTime>02/02/2021 11:33:57</publishTime>
+    </File>
+    <File Include="Models/Query.cs">
+      <publishTime>02/04/2021 19:48:47</publishTime>
+    </File>
+    <File Include="Models/SellerDto.cs">
+      <publishTime>01/13/2021 18:33:50</publishTime>
+    </File>
+    <File Include="Models/UserDto.cs">
+      <publishTime>02/03/2021 18:33:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

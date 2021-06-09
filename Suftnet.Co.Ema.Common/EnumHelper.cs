@@ -1,4 +1,4 @@
-﻿namespace Suftnet.Co.Bima.Common
+﻿namespace Suftnet.Co.Ema.Common
 {
     using System;
     using System.Collections.Generic;

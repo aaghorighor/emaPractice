@@ -7,3 +7,12 @@ E:\Git\Web\emaPractice\Suftnet.Co.Bima.Common\bin\Debug\netstandard2.0\Suftnet.C
 E:\Git\Web\emaPractice\Suftnet.Co.Bima.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.dll
 E:\Git\Web\emaPractice\Suftnet.Co.Bima.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.pdb
 E:\Git\Web\emaPractice\Suftnet.Co.Bima.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.csprojAssemblyReference.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\bin\Debug\netstandard2.0\Suftnet.Co.Ema.Common.deps.json
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\bin\Debug\netstandard2.0\Suftnet.Co.Ema.Common.dll
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\bin\Debug\netstandard2.0\Suftnet.Co.Ema.Common.pdb
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.AssemblyInfoInputs.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.AssemblyInfo.cs
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.csproj.CoreCompileInputs.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.dll
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.pdb
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.Common\obj\Debug\netstandard2.0\Suftnet.Co.Ema.Common.csprojAssemblyReference.cache

@@ -1,4 +1,4 @@
-﻿namespace Suftnet.Co.Bima.Core
+﻿namespace Suftnet.Co.Ema.Core
 {
     public class EngineContext
     {

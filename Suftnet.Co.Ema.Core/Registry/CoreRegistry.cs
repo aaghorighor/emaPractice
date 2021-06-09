@@ -1,4 +1,4 @@
-﻿namespace Suftnet.Co.Bima.Core.Registry
+﻿namespace Suftnet.Co.Ema.Core.Registry
 {
     using StructureMap;
     

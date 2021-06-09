@@ -10,3 +10,15 @@ E:\Git\Web\emaPractice\Suftnet.Co.Bima.DataAccess\obj\Debug\netcoreapp3.1\Suftne
 E:\Git\Web\emaPractice\Suftnet.Co.Bima.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.pdb
 E:\Git\Web\emaPractice\Suftnet.Co.Bima.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.genruntimeconfig.cache
 E:\Git\Web\emaPractice\Suftnet.Co.Bima.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.csprojAssemblyReference.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\bin\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.deps.json
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\bin\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.runtimeconfig.json
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\bin\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.runtimeconfig.dev.json
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\bin\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.dll
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\bin\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.pdb
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.csprojAssemblyReference.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.AssemblyInfoInputs.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.AssemblyInfo.cs
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.csproj.CoreCompileInputs.cache
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.dll
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.pdb
+E:\Git\Web\emaPractice\Suftnet.Co.Ema.DataAccess\obj\Debug\netcoreapp3.1\Suftnet.Co.Ema.DataAccess.genruntimeconfig.cache
