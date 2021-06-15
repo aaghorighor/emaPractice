@@ -10,6 +10,7 @@
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.IdentityModel.Tokens;
     using StructureMap;
+    using Suftnet.Co.Ema.Api.Command;
     using Suftnet.Co.Ema.Api.Infrastructure;
     using Suftnet.Co.Ema.Api.Models;
     using Suftnet.Co.Ema.Core;
@@ -17,6 +18,7 @@
     using Suftnet.Co.Ema.DataAccess.Actions;
     using Suftnet.Co.Ema.DataAccess.Identity;
     using Suftnet.Co.Ema.DataAccess.Registry;
+    using Suftnet.Cos.Services;
     using System;
     using System.Text;
     using System.Text.Json;
@@ -36,7 +38,9 @@
                 config.AddRegistry<DataRegistry>();
           
                 config.For<IJwtFactory>().Use<JwtFactory>().Singleton();
-                              
+                config.For<ISmtp>().Use<Smtp>().Transient();
+                config.For<ITemplateCommand>().Use<TemplateCommand>().Transient();
+
                 config.Populate(services);
             });
 

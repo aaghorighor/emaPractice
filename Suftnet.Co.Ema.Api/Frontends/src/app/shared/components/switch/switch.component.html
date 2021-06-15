@@ -1,0 +1,27 @@
+<!-- <div class="form-check form-switch" (click)="switch()">
+    <input class="form-check-input" type="checkbox" [value]="value" [attr.checked]="value" [id]="id">
+    <label class="form-check-label" [for]="id">
+        <ng-content></ng-content>
+    </label>
+</div> -->
+
+<div class="form-check form-switch" [class.form-check-inline]="inline">
+    <label class="form-check-label" role="checkbox">
+        <input 
+            #switch
+            type="checkbox" 
+            class="form-check-input"  
+            [attr.id]="inputId" 
+            [attr.name]="name" 
+            [checked]="checked" 
+            (change)="onInputChange($event)"
+            (focus)="onFocus($event)" 
+            (blur)="onBlur($event)" 
+            [disabled]="disabled" 
+            role="switch"
+        >
+        <span>
+            <ng-content></ng-content>
+        </span>
+    </label>
+</div>

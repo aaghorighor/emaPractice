@@ -38,4 +38,12 @@
         public const string Paid = "115924fb-79f9-4e0c-ab5f-d4e1dfc1c893";
         public const string Pending = "ed9eb336-d246-4747-adb1-42fd95d98e4c";     
     }
+
+    public enum EmailSendingType
+    {
+        To,
+        CC,
+        BCC,
+        ReplyTo,
+    }
 }

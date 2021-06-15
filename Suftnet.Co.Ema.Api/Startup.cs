@@ -4,6 +4,7 @@
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.AspNetCore.Http;
+    using Microsoft.AspNetCore.SpaServices.AngularCli;
     using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
@@ -16,6 +17,7 @@
     using Suftnet.Co.Ema.Common;
     using Suftnet.Co.Ema.DataAccess.Identity;
     using System;
+    using System.IO;
 
     public class Startup
     {
@@ -26,6 +28,7 @@
 
         public static IConfiguration Configuration { get; set; }
 
+        [Obsolete]
         public IServiceProvider ConfigureServices(IServiceCollection services)
         {
             var mappingConfig = new MapperConfiguration(mapper =>
@@ -67,7 +70,7 @@
             services.AddSpaStaticFiles(configuration =>
             {
                 configuration.RootPath = "frontend/dist";
-            });
+            });            
 
             return services.IoC();
         }
@@ -84,50 +87,20 @@
             {
                 endpoints.MapControllers();
             });
-            app.UseStaticFiles(new StaticFileOptions
+            app.UseStaticFiles();
+            if (!env.IsDevelopment())
             {
-                OnPrepareResponse = (context) =>
-                {
-                    var headers = context.Context.Response.GetTypedHeaders();
-                    headers.CacheControl = new CacheControlHeaderValue
-                    {
-                        Public = true,
-                        MaxAge = TimeSpan.FromDays(60)
-                    };
-                }
-            });
-            app.UseSpaStaticFiles();
-            app.Use(async (context, next) =>
-            {
-                context.Response.Headers.Add(
-                    "Content-Security-Policy",
-                    "frame-ancestors 'self' https:   ; " +
-                    "default-src 'self' https:   azure.net ; " +
-                    "child-src 'self' https:  ; " +
-                    "style-src 'self' blob: 'unsafe-inline' ; " +
-                    "font-src 'self' https: data: ; " +
-                    "script-src 'self' https: 'unsafe-eval' ; " +
-                    "connect-src 'self' https: wss: ; " +
-                    "img-src 'self' https: data: ; ");
-
-                context.Response.Headers.Add(
-                    "Strict-Transport-Security",
-                    "max-age=86400; includeSubDomains");
-
-                context.Response.Headers.Add("X-Frame-Options", "SAMEORIGIN");
-                context.Response.Headers.Add("X-Xss-Protection", "1");
-                await next();
-            });
+                app.UseSpaStaticFiles();
+            }
 
             app.UseSpa(spa =>
             {
-                spa.Options.SourcePath = "frontend";
-                spa.Options.StartupTimeout = new TimeSpan(0, 2, 0);
-
+                spa.Options.SourcePath = Path.Join(env.ContentRootPath, "frontend");
+         
                 if (env.IsDevelopment())
                 {
-                    spa.UseReactDevelopmentServer(npmScript: "start");
-                }
+                    spa.UseAngularCliServer(npmScript: "start");                   
+                }                
 
             });
         }    

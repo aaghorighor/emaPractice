@@ -1,0 +1,113 @@
+2021-06-15 17:25:36.3136 INFO Starting @angular/cli on port 57930...
+2021-06-15 17:25:36.8433 INFO User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-06-15 17:25:37.0905 INFO Request starting HTTP/1.1 GET http://localhost:62137/  
+2021-06-15 17:25:40.1665 ERROR Option "port" was already specified with value 4300. The new value 57930 will override it.
+
+2021-06-15 17:26:06.1388 INFO > sapp@0.0.0 start
+> ng serve --port 4300 "--port" "57930"
+
+
+
+2021-06-15 17:26:06.1548 INFO chunk {main} main.js, main.js.map (main) 184 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 141 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.78 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.41 MB [initial] [rendered]
+Date: 2021-06-15T16:26:06.131Z - Hash: 3aec092d6154a1f543eb - Time: 16422ms
+
+2021-06-15 17:26:06.1670 INFO ** Angular Live Development Server is listening on localhost:57930, open your browser on http://localhost:57930/ **
+: Compiled successfully.
+
+2021-06-15 17:26:13.0546 INFO Request finished in 35973.2193ms 200 text/html; charset=UTF-8
+2021-06-15 17:26:13.1224 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/js/jquery-3.3.1.min.js  
+2021-06-15 17:26:13.1716 INFO Request starting HTTP/1.1 GET http://localhost:62137/runtime.js  
+2021-06-15 17:26:13.1902 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/js/popper.min.js  
+2021-06-15 17:26:13.1902 INFO CORS policy execution successful.
+2021-06-15 17:26:13.2134 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/css/style.css  
+2021-06-15 17:26:13.2404 INFO Request finished in 89.383ms 304 
+2021-06-15 17:26:13.2714 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/js/scripts.js  
+2021-06-15 17:26:13.2714 INFO Request finished in 72.1402ms 304 
+2021-06-15 17:26:13.2872 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/css/responsive.css  
+2021-06-15 17:26:13.3038 INFO Request starting HTTP/1.1 GET http://localhost:62137/polyfills.js  
+2021-06-15 17:26:13.3038 INFO Request starting HTTP/1.1 GET http://localhost:62137/styles.js  
+2021-06-15 17:26:13.3174 INFO CORS policy execution successful.
+2021-06-15 17:26:13.3174 INFO CORS policy execution successful.
+2021-06-15 17:26:13.3174 INFO Request finished in 62.6689ms 304 
+2021-06-15 17:26:13.3392 INFO Request starting HTTP/1.1 GET http://localhost:62137/vendor.js  
+2021-06-15 17:26:13.3392 INFO Request finished in 61.7966ms 304 
+2021-06-15 17:26:13.3456 INFO CORS policy execution successful.
+2021-06-15 17:26:13.3456 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/js/bootstrap.min.js  
+2021-06-15 17:26:13.3456 INFO Request finished in 46.1134ms 200 application/javascript; charset=UTF-8
+2021-06-15 17:26:13.3647 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/js/plugins.min.js  
+2021-06-15 17:26:13.3792 INFO Request finished in 9.5936ms 304 
+2021-06-15 17:26:13.3792 INFO Request starting HTTP/1.1 GET http://localhost:62137/main.js  
+2021-06-15 17:26:13.3941 INFO CORS policy execution successful.
+2021-06-15 17:26:13.4179 INFO Request finished in 40.3626ms 200 application/javascript; charset=UTF-8
+2021-06-15 17:26:15.3240 INFO Request finished in 2163.3571ms 304 
+2021-06-15 17:26:15.3417 INFO Request finished in 2135.4282ms 304 
+2021-06-15 17:26:15.3578 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/css/owl.carousel.min.css  
+2021-06-15 17:26:15.3578 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/font/flaticon.css  
+2021-06-15 17:26:15.3706 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/css/all.min.css  
+2021-06-15 17:26:15.4009 INFO Request finished in 29.6884ms 304 
+2021-06-15 17:26:15.4009 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/css/bootstrap.min.css  
+2021-06-15 17:26:15.4009 INFO Request finished in 2065.5418ms 304 
+2021-06-15 17:26:15.4169 INFO Request finished in 29.804ms 304 
+2021-06-15 17:26:15.4169 INFO Request finished in 2048.6906ms 304 
+2021-06-15 17:26:15.4169 INFO Request finished in 51.329ms 304 
+2021-06-15 17:26:15.4394 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/css/animate.min.css  
+2021-06-15 17:26:15.4394 INFO Request finished in 33.9886ms 304 
+2021-06-15 17:26:15.4394 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/css/slick.css  
+2021-06-15 17:26:15.4627 INFO Request finished in 17.0054ms 304 
+2021-06-15 17:26:15.4627 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/css/jquery.fancybox.min.css  
+2021-06-15 17:26:15.4753 INFO Request finished in 40.5838ms 304 
+2021-06-15 17:26:15.4905 INFO Request finished in 21.253ms 304 
+2021-06-15 17:26:15.5035 INFO Request finished in 2194.606ms 200 application/javascript; charset=UTF-8
+2021-06-15 17:26:15.8677 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/logo.png  
+2021-06-15 17:26:15.8799 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/work_thumb_1.png  
+2021-06-15 17:26:15.8799 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/work_thumb_2.png  
+2021-06-15 17:26:15.8984 INFO Request finished in 58.2862ms 304 
+2021-06-15 17:26:15.8984 INFO Request finished in 23.6291ms 304 
+2021-06-15 17:26:15.9120 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/features_thumb.png  
+2021-06-15 17:26:15.9301 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/discover_thumb_3.png  
+2021-06-15 17:26:15.9427 INFO Request finished in 25.7282ms 304 
+2021-06-15 17:26:15.9548 INFO Request finished in 35.7293ms 304 
+2021-06-15 17:26:15.9548 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/service_thumb_2.png  
+2021-06-15 17:26:15.9548 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/screenshot_1.jpg  
+2021-06-15 17:26:15.9905 INFO Request finished in 23.718ms 304 
+2021-06-15 17:26:16.0161 INFO Request finished in 38.4186ms 304 
+2021-06-15 17:26:16.0374 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/work_thumb_3.png  
+2021-06-15 17:26:16.0510 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/app-store-black.png  
+2021-06-15 17:26:16.0737 INFO Request finished in 56.1217ms 304 
+2021-06-15 17:26:16.0925 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/google-play-black.png  
+2021-06-15 17:26:16.1149 INFO Request finished in 32.2452ms 304 
+2021-06-15 17:26:16.1344 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/screenshot_2.jpg  
+2021-06-15 17:26:16.1500 INFO Request finished in 95.4482ms 304 
+2021-06-15 17:26:16.1663 INFO Request finished in 34.9698ms 304 
+2021-06-15 17:26:16.1663 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/screenshot_3.jpg  
+2021-06-15 17:26:16.1810 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/webfonts/fa-solid-900.woff2  
+2021-06-15 17:26:16.1933 INFO CORS policy execution successful.
+2021-06-15 17:26:16.2075 INFO Request finished in 30.3552ms 304 
+2021-06-15 17:26:16.2421 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/webfonts/fa-brands-400.woff2  
+2021-06-15 17:26:16.2562 INFO Request finished in 54.9905ms 304 
+2021-06-15 17:26:16.2734 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/font/Flaticon.woff2  
+2021-06-15 17:26:16.2734 INFO CORS policy execution successful.
+2021-06-15 17:26:16.2734 INFO CORS policy execution successful.
+2021-06-15 17:26:16.2933 INFO Request finished in 70.0315ms 304 
+2021-06-15 17:26:16.3075 INFO Request finished in 38.492ms 304 
+2021-06-15 17:26:16.3140 INFO Request starting HTTP/1.1 GET http://localhost:62137/sockjs-node/info?t=1623774376149  
+2021-06-15 17:26:16.3140 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/screenshot_4.jpg  
+2021-06-15 17:26:16.3431 INFO Request finished in 27.0372ms 304 
+2021-06-15 17:26:16.3588 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/screenshot_5.jpg  
+2021-06-15 17:26:16.3965 INFO Request finished in 64.4511ms 200 application/json; charset=UTF-8
+2021-06-15 17:26:16.4299 INFO Request finished in 52.3942ms 304 
+2021-06-15 17:26:16.4532 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/app-store.png  
+2021-06-15 17:26:16.4607 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/google-play.png  
+2021-06-15 17:26:16.4732 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/download-bg.jpg  
+2021-06-15 17:26:16.4732 INFO Request finished in 36.6425ms 304 
+2021-06-15 17:26:16.5025 INFO Request finished in 32.7598ms 304 
+2021-06-15 17:26:16.5025 INFO Request finished in 21.2691ms 304 
+2021-06-15 17:26:16.5305 INFO Request finished in 653.5283ms 304 
+2021-06-15 17:26:16.5393 INFO Request starting HTTP/1.1 GET http://localhost:62137/assets/img/favicon.png  
+2021-06-15 17:26:16.5393 INFO Request starting HTTP/1.1 GET http://localhost:62137/sockjs-node/888/bsgzezzw/websocket  
+2021-06-15 17:26:16.5562 INFO CORS policy execution successful.
+2021-06-15 17:26:16.5562 INFO Request finished in 14.3268ms 304 
