@@ -19,7 +19,7 @@ $( document ).ready(function() {
 
     var $window = $(window);
     var zero = 0;
-
+  
     function navMenu() {
 
         // MAIN MENU TOGGLER ICON (MOBILE SITE ONLY)
@@ -36,6 +36,7 @@ $( document ).ready(function() {
         var $stickyNav = $(".navbar-sticky");
 
         $(window).on("scroll load", function () {
+         
             var scroll = $(window).scrollTop();
             if (scroll >= 120) {
                 $stickyNav.addClass("navbar-sticky-moved-up");
@@ -86,6 +87,7 @@ $( document ).ready(function() {
     });
 
     $("#scrollUp").on('click', function () {
+
         $('html, body').animate({
             scrollTop: 0
         }, duration);
@@ -100,7 +102,7 @@ $( document ).ready(function() {
     });
 
     // :: 4.0 SMOOTH SCROLLING ACTIVE CODE
-    scrollLink.on('click', function (e) {
+    scrollLink.on('click', function (e) {     
         e.preventDefault();
         $('body,html').animate({
             scrollTop: $(this.hash).offset().top
@@ -266,7 +268,7 @@ $( document ).ready(function() {
         autoplayTimeout: 4000,
         dotsContainer: '.work-content'
     });
-
+        
     // :: 11.0 LOGIN SLIDER ACTIVE CODE
     $('.login-slider.owl-carousel').owlCarousel({
         loop: true,

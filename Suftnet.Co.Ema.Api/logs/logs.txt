@@ -73,3 +73,8 @@
 2021-06-15 17:25:35.0410 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=E:\Git\Web\emaPractice\Suftnet.Co.Ema.Api\bin\Release\netcoreapp3.1\NLog.config
 2021-06-15 17:25:35.0638 Info Configuration initialized.
 2021-06-15 17:25:35.0644 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2021-06-21 20:09:59.6062 Info Message Template Auto Format enabled
+2021-06-21 20:09:59.6600 Info Adding target FileTarget(Name=logfile)
+2021-06-21 20:09:59.6937 Info Validating config: TargetNames=logfile, ConfigItems=14, FilePath=E:\Git\Web\emaPractice\Suftnet.Co.Ema.Api\bin\Debug\netcoreapp3.1\NLog.config
+2021-06-21 20:09:59.7371 Info Configuration initialized.
+2021-06-21 20:09:59.7371 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False

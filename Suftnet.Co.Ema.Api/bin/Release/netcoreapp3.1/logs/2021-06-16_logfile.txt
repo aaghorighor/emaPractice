@@ -1,0 +1,17 @@
+2021-06-16 08:17:36.3059 INFO Starting @angular/cli on port 51020...
+2021-06-16 08:17:36.6346 INFO User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-06-16 08:17:36.7544 INFO Request starting HTTP/1.1 GET http://localhost:62137/  
+2021-06-16 08:17:39.7057 ERROR Option "port" was already specified with value 4300. The new value 51020 will override it.
+
+2021-06-16 08:18:00.1923 INFO > sapp@0.0.0 start
+> ng serve --port 4300 "--port" "51020"
+
+
+
+2021-06-16 08:18:00.2097 INFO chunk {main} main.js, main.js.map (main) 184 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 141 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.78 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.41 MB [initial] [rendered]
+Date: 2021-06-16T07:18:00.186Z - Hash: 64dd32fb615758982a93 - Time: 12250ms
+

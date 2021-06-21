@@ -1,21 +1,50 @@
 import { NgModule } from '@angular/core';
-import { Routes, RouterModule } from '@angular/router';
-import { ThemeTwoComponent } from './themes/theme-two/theme-two.component';
-import { LoginComponent } from './components/accounts/login/login.component';
-import { SignupComponent } from './components/accounts/signup/signup.component';
-import { ResetComponent } from './components/accounts/reset/reset.component';
-import { ThankYouComponent } from './components/thank-you/thank-you.component';
+import { RouterModule, Routes, PreloadAllModules } from '@angular/router';
 
-const routes: Routes = [
-  {path: '', component: ThemeTwoComponent}, 
-  {path: 'login', component: LoginComponent},
-  {path: 'signup', component: SignupComponent},
-  {path: 'reset', component: ResetComponent},  
-  {path: 'thanks', component: ThankYouComponent}  
+import { AuthLayoutComponent } from "./layout/auth-layout/auth-layout.component";
+import { AppLayoutComponent } from "./layout/app-layout/app-layout-component";
+import { FrontendLayoutComponent } from './layout/frontend-layout/frontend-layout.component';
+
+import { AUTH_LAYOUT_ROUTES } from "./routes/auth-layout.routes";
+import { APP_LAYOUT_ROUTES } from './routes/app-layout.routes';
+import { FRONTEND_LAYOUT_ROUTES } from './routes/frontend-layout.routes';
+
+const appRoutes: Routes = [
+    {
+        path: '',
+        redirectTo: '/frontend',
+        pathMatch: 'full',
+    },
+    { 
+        path: '', 
+        component: AppLayoutComponent,
+        children: APP_LAYOUT_ROUTES 
+    },
+    { 
+        path: '', 
+        component: AuthLayoutComponent, 
+        children: AUTH_LAYOUT_ROUTES
+    },
+    { 
+        path: '', 
+        component: FrontendLayoutComponent, 
+        children: FRONTEND_LAYOUT_ROUTES
+    }
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+    imports: [
+        RouterModule.forRoot(appRoutes, {
+            preloadingStrategy: PreloadAllModules,
+            anchorScrolling: 'enabled',
+            scrollPositionRestoration: 'enabled',
+            relativeLinkResolution: 'legacy'
+        })
+    ],
+    exports: [
+        RouterModule
+    ]
 })
-export class AppRoutingModule { }
+
+export class AppRoutingModule {
+}
