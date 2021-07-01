@@ -19,16 +19,6 @@ export class NavProfileComponent implements OnInit {
         },
         {
             path: '',
-            icon: 'feather icon-settings',
-            item: 'Settings'
-        },
-        {
-            path: '',
-            icon: 'feather icon-life-buoy',
-            item: 'Support'
-        },
-        {
-            path: '',
             icon: 'feather icon-power',
             item: 'Sign Out'
         }

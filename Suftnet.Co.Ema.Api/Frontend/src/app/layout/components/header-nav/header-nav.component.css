@@ -1,0 +1,10 @@
+.navbar.navbar-inverse .navbar-header .navbar-header-center {
+    display: block;
+    text-align:center;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar.navbar-inverse .navbar-header{
+float: none; 
+}

@@ -13,11 +13,11 @@ const dashboard: NavMenu[] = [
     },
 ]
 
-const menuWithTitle: NavMenu[] = [
+const adminNavMenu: NavMenu[] = [
     {
         path: '',
-        title: 'Menu with Title',
-        translateKey: 'NAV.MENU_WITH_TITLE',
+        title: '',
+        translateKey: '',
         type: 'title',
         iconType: 'feather',
         icon: 'icon-file',
@@ -26,109 +26,38 @@ const menuWithTitle: NavMenu[] = [
             {
                 path: '/menu-1',
                 title: 'Menu 1',
-                translateKey: 'NAV.MENU_WITH_TITLE_ITEM_1',
+                translateKey: 'Users',
                 type: 'item',
-                iconType: 'feather',
-                icon: 'icon-file',
-                key: 'menu-with-title.menu-with-title-item-1',
+                iconType: 'feather', 
+                icon: 'icon-users',
+                key: '',
                 submenu: []
             },
             {
                 path: '/menu-2',
                 title: 'Menu 2',
-                translateKey: 'NAV.MENU_WITH_TITLE_ITEM_2',
+                translateKey: 'Reports',
                 type: 'item',
                 iconType: 'feather',
-                icon: 'icon-file',
+                icon: 'icon-book-open',
                 key: 'menu-with-title.menu-with-title-item-2',
                 submenu: []
             },
-        ]
-    }
-]
-
-const navWithSubMenu: NavMenu[] = [
-    {
-        path: '',
-        title: 'Nav with submenu',
-        translateKey: 'NAV.NAV_WITH_SUBMENU',
-        type: 'collapse',
-        iconType: 'feather',
-        icon: 'icon-align-left',
-        key: 'nav-wth-submenu',
-        submenu: [
             {
-                path: '/submenu-1',
-                title: 'Submenu 1',
-                translateKey: 'NAV.SUBMENU_1',
+                path: '/menu-2',
+                title: 'Menu 2',
+                translateKey: 'Settings',
                 type: 'item',
                 iconType: 'feather',
-                icon: 'icon-file',
-                key: 'nav-wth-submenu.submenu-1',
+                icon: 'icon-settings',
+                key: 'menu-with-title.menu-with-title-item-2', 
                 submenu: []
-            },
-            {
-                path: '/submenu-2',
-                title: 'Submenu 2',
-                translateKey: 'NAV.SUBMENU_2',
-                type: 'item',
-                iconType: 'feather',
-                icon: 'icon-file',
-                key: 'nav-wth-submenu.submenu-2',
-                submenu: []
-            },
-        ]
-    }
-]
-
-const subMenuWithTitle: NavMenu[] = [
-    {
-        path: '',
-        title: 'Submenu with title',
-        translateKey: 'NAV.SUBMENU_WITH_TITLE',
-        type: 'title',
-        iconType: 'feather',
-        icon: 'icon-package',
-        key: 'submenu-with-title',
-        submenu: [
-            {
-                path: '',
-                title: 'Menu',
-                translateKey: 'NAV.MENU',
-                type: 'collapse',
-                iconType: 'feather',
-                icon: 'icon-box',
-                key: 'submenu-with-title.menu',
-                submenu : [
-                    {
-                        path: '/ui-elements/accordion',
-                        title: 'Submenu 1',
-                        translateKey: 'NAV.SUBMENU_1',
-                        type: 'item',
-                        iconType: '',
-                        icon: '',
-                        key: 'submenu-with-title.menu.submenu-1',
-                        submenu: []
-                    },
-                    {
-                        path: '/ui-elements/alert',
-                        title: 'Submenu 2',
-                        translateKey: 'NAV.SUBMENU_2',
-                        type: 'item',
-                        iconType: '',
-                        icon: '',
-                        key: 'submenu-with-title.menu.submenu-2',
-                        submenu: []
-                    }
-                ],
             },
         ]
     }
 ]
 
 export const navConfiguration: NavMenu[] = [
-    ...dashboard,
-    ...navWithSubMenu,
-    ...menuWithTitle,
-    ...subMenuWithTitle
+    ...dashboard,  
+    ...adminNavMenu    
 ]

@@ -1,0 +1,17 @@
+<dropdown dropdownClass="header-nav-item-select nav-headerlink" (click)="navHeaderLink.toggle($event)">
+    <div class="toggle-wrapper d-flex align-items-center">
+        <i class="header-nav-item-select nav-icon feather icon-link"></i>
+        <i class="feather icon-chevron-down"></i>
+    </div>
+
+    <dropdown-menu #navHeaderLink alignment="right">
+       <a href="javascript:void(0)" dropdownItem *ngFor="let linkItem of headerLinkList">
+            <div class="d-flex align-items-center">
+                <i class="font-size-lg space-1" [ngClass]="linkItem.icon"></i>
+                <span>{{linkItem.item}}</span>
+            </div>
+        </a>
+    </dropdown-menu>
+</dropdown>
+
+

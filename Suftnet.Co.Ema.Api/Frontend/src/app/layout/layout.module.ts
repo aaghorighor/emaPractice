@@ -28,7 +28,8 @@ import { NavConfigComponent } from './components/nav-config/nav-config.component
 import { ThemeConfiguratorComponent } from './components/theme-configurator/theme-configurator.component';
 import { VerticalMenuContentComponent } from './components/vertical-menu-content/vertical-menu-content.component';
 import { MobileNavComponent } from './components/mobile-nav/mobile-nav.component';
-import  {FrontendLayoutComponent} from './frontend-layout/frontend-layout.component'
+import  {FrontendLayoutComponent} from './frontend-layout/frontend-layout.component';
+import { HeaderLinkComponent } from './components/header-link/header-link.component'
 
 const mandatoryComponents = [
     AppLayoutComponent,
@@ -58,7 +59,8 @@ const optionalComponents = [
 @NgModule({
     declarations: [
         ...mandatoryComponents,
-        ...optionalComponents      
+        ...optionalComponents,
+        HeaderLinkComponent      
     ],
     imports: [
         SharedModule,

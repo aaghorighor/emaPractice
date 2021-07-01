@@ -3,8 +3,8 @@ import { defaultLanguge } from './i18n.config'
 
 export const AppConfiguration : AppConfig = {
     layoutType: 'vertical',
-    sideNavCollapse: false,
-    mobileNavCollapse: false,
+    sideNavCollapse: true,
+    mobileNavCollapse: true,
     lang: defaultLanguge,
     navMenuColor: 'light',
     headerNavColor: '#ffffff'
